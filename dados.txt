@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Amanda Maria
+-Profissão: Desenvolvedora de Sistemas
+-Cidade: Porto União - SC
+-O que faz nas horas vaga: Vejo cursos e assisto vídeos no Youtube
+-Feedback sobre o curso Qualidade de Software: nota 9/10
+-Feedback sobre a plataforma de estudo da EBAC: nota 10/10
 
 Obrigado!!!
 
